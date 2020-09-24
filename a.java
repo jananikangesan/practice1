@@ -4,6 +4,12 @@ public class example{
 	String text;
 
 
+	public String gettext(){
+
+          return text;
+	}
+
+
 
 
 
