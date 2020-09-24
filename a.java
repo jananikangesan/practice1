@@ -12,5 +12,13 @@ public class example{
 
 
 
+   public void addquestion(String a){
+	   text=a;
+     
+
+
+   }
+
+
 
 }
